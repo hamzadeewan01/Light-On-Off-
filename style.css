@@ -1,0 +1,14 @@
+*{background-color: orangered;}
+
+img{margin-top: 100px;
+    margin-left:40%;
+height: 400px;align-items: center;}
+
+h1{text-align: center;}
+
+button{
+    position: relative;
+    left: 700px;
+    top: 20px;
+    width: 100px;
+}
